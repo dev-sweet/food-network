@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 70px;
+    margin-top:10px;
+    margin-bottom: 5px;
+}
+#food-network{
+    padding:4% 7%;
+}
+.flex-container{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    margin:auto;
+}
+.orange-color{
+    color:orange;
+}
+.half-width p{
+    font-size: 23px;
+    margin-bottom:50px;
+}
+.half-width img{
+    width:100%;
+}
+.link-button {
+    background-image: linear-gradient(#eeac33, #ff7903);
+    padding: 22px 45px;
+    border-radius: 34px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    box-shadow: 0px 0px 10px #f09089;
+}
