@@ -93,3 +93,28 @@ h2{
     margin-bottom:0;
     font-weight: bold;
 }
+#subscribe-sec {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+.subscribe-area {
+    width: 80%;
+    margin: auto;
+    padding:35px 0;
+    border-radius: 15px;
+    box-shadow: 1px 0px 16px #b4b4b4;
+}
+
+.subscribe-box {
+    margin: auto;
+}
+.subscribe-box h2 {
+    font-weight: bolder;
+    margin: 5px;
+}
+
+.subscribe-box p {
+    font-size: 17px;
+}
