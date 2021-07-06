@@ -11,7 +11,7 @@ h1{
     margin-top:10px;
     margin-bottom: 5px;
 }
-#food-network{
+section{
     padding:4% 7%;
 }
 .flex-container{
@@ -25,10 +25,10 @@ h1{
     color:orange;
 }
 .half-width p{
-    font-size: 23px;
-    margin-bottom:50px;
+    font-size: 22px;
+    padding-bottom:50px;
 }
-.half-width img{
+.food-network-img{
     width:100%;
 }
 .link-button {
@@ -39,4 +39,27 @@ h1{
     color: white;
     font-weight: 700;
     box-shadow: 0px 0px 10px #f09089;
+}
+
+#about-section{
+    padding-bottom:0;
+    padding-left:0;
+    background-image: url("images/about-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-img{
+    text-align: center;
+}
+.about-img img{
+    width:50%;
+    height:auto;
+}
+h2{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.about-text{
+    text-align:left;
+    padding:0 40px;
 }
